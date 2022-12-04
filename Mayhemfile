@@ -1,0 +1,5 @@
+project: simpleini
+target: simpleini
+
+cmds:
+  - cmd: /fuzz_ini @@
